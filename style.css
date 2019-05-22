@@ -1,0 +1,21 @@
+body {
+	background-image:url("humberto-chavez-1058365-unsplash.jpg");
+	background-size:cover;
+}
+h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-size:4em;
+	text-align:center;
+	margin-top:10%;
+}
+.btn{
+	 background-color:#832E5E;
+	 margin-top: 20%;
+	 border-radius: 300px;
+}
+.btn:hover {
+	background-color: #f64c72;
+	border-width: 5px;
+	border-color:#832E5E;
+	cursor: pointer;
+}
